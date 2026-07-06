@@ -1,0 +1,271 @@
+Date,Day,Module/Video Topic,Assignment,Assignment Days
+07-05,Sat,Module 5: OOP - Lecture 2,A4: File Handling,Day 1 of 2
+07-06,Sun,Module 5: OOP - Lecture 3,A4: File Handling,Day 2 of 2
+07-07,Mon,Module 5: OOP - Lecture 4,A5: Modules & Packages,Day 1 of 2
+07-08,Tue,Module 5: OOP - Lecture 5,A5: Modules & Packages,Day 2 of 2
+07-09,Wed,Module 5: OOP - Lecture 6,A6: Exception Handling,Day 1 of 2
+07-10,Thu,Module 5: OOP - Lecture 7,A6: Exception Handling,Day 2 of 2
+07-11,Fri,Module 5: OOP - Lecture 8,A7: OOP,Day 1 of 3
+07-12,Sat,Module 6: Streamlit - Lecture 1,A7: OOP,Day 2 of 3
+07-13,Sun,Module 7: NumPy - Lecture 1,A7: OOP,Day 3 of 3
+07-14,Mon,Module 7: NumPy - Lecture 2,A8: Streamlit,Day 1 of 2
+07-15,Tue,Module 7: NumPy - Lecture 3,A8: Streamlit,Day 2 of 2
+07-16,Wed,Module 7: NumPy - Lecture 4,A9: NumPy,Day 1 of 2
+07-17,Thu,Module 8: Pandas - Lecture 1,A9: NumPy,Day 2 of 2
+07-18,Fri,Module 8: Pandas - Lecture 2,A10: Pandas,Day 1 of 3
+07-19,Sat,Module 8: Pandas - Lecture 3,A10: Pandas,Day 2 of 3
+07-20,Sun,Module 8: Pandas - Lecture 4,A10: Pandas,Day 3 of 3
+07-21,Mon,Module 8: Pandas - Lecture 5,A11: Matplotlib,Day 1 of 3
+07-22,Tue,Module 8: Pandas - Lecture 6,A11: Matplotlib,Day 2 of 3
+07-23,Wed,Module 8: Pandas - Lecture 7,A11: Matplotlib,Day 3 of 3
+07-24,Thu,Module 8: Pandas - Lecture 8,A12: Seaborn,Day 1 of 2
+07-25,Fri,Module 8: Pandas - Lecture 9,A12: Seaborn,Day 2 of 2
+07-26,Sat,Module 9: Matplotlib - Lecture 1,A13: EDA,Day 1 of 3
+07-27,Sun,Module 9: Matplotlib - Lecture 2,A13: EDA,Day 2 of 3
+07-28,Mon,Module 9: Matplotlib - Lecture 3,A13: EDA,Day 3 of 3
+07-29,Tue,Module 9: Matplotlib - Lecture 4,A14: Feature Engineering,Day 1 of 3
+07-30,Wed,Module 9: Matplotlib - Lecture 5,A14: Feature Engineering,Day 2 of 3
+07-31,Thu,Module 9: Matplotlib - Lecture 6,A14: Feature Engineering,Day 3 of 3
+08-01,Fri,Module 9: Matplotlib - Lecture 7,A15: ML Algorithms,Day 1 of 3
+08-02,Sat,Module 9: Matplotlib - Lecture 8,A15: ML Algorithms,Day 2 of 3
+08-03,Sun,Module 10: Seaborn - Lecture 1,A15: ML Algorithms,Day 3 of 3
+08-04,Mon,Module 10: Seaborn - Lecture 2,A16: SVM & Ensembles,Day 1 of 3
+08-05,Tue,Module 10: Seaborn - Lecture 3,A16: SVM & Ensembles,Day 2 of 3
+08-06,Wed,Module 10: Seaborn - Lecture 4,A16: SVM & Ensembles,Day 3 of 3
+08-07,Thu,Module 10: Seaborn - Lecture 5,A17: NLP Preprocessing,Day 1 of 3
+08-08,Fri,Module 10: Seaborn - Lecture 6,A17: NLP Preprocessing,Day 2 of 3
+08-09,Sat,Module 10: Seaborn - Lecture 7,A17: NLP Preprocessing,Day 3 of 3
+08-10,Sun,Module 11: Data Science for AI - Lecture 1,A18: Text Vectorization,Day 1 of 3
+08-11,Mon,Module 12: ML - Lecture 1,A18: Text Vectorization,Day 2 of 3
+08-12,Tue,Module 12: ML - Lecture 2,A18: Text Vectorization,Day 3 of 3
+08-13,Wed,Module 12: ML - Lecture 3,A19: Word2Vec Embeddings,Day 1 of 2
+08-14,Thu,Module 12: ML - Lecture 4,A19: Word2Vec Embeddings,Day 2 of 2
+08-15,Fri,Module 12: ML - Lecture 5,A20: Recommendation System,Day 1 of 5
+08-16,Sat,Module 12: ML - Lecture 6,A20: Recommendation System,Day 2 of 5
+08-17,Sun,Module 12: ML - Lecture 7,A20: Recommendation System,Day 3 of 5
+08-18,Mon,Module 12: ML - Lecture 8,A20: Recommendation System,Day 4 of 5
+08-19,Tue,Module 12: ML - Lecture 9,A20: Recommendation System,Day 5 of 5
+08-20,Wed,Module 12: ML - Lecture 10,A21: LangChain Loaders,Day 1 of 3
+08-21,Thu,Module 12: ML - Lecture 11,A21: LangChain Loaders,Day 2 of 3
+08-22,Fri,Module 12: ML - Lecture 12,A21: LangChain Loaders,Day 3 of 3
+08-23,Sat,Module 12: ML - Lecture 13,A22: Embedding Models,Day 1 of 5
+08-24,Sun,Module 12: ML - Lecture 14,A22: Embedding Models,Day 2 of 5
+08-25,Mon,Module 12: ML - Lecture 15,A22: Embedding Models,Day 3 of 5
+08-26,Tue,Module 12: ML - Lecture 16,A22: Embedding Models,Day 4 of 5
+08-27,Wed,Module 12: ML - Lecture 17,A22: Embedding Models,Day 5 of 5
+08-28,Thu,Module 12: ML - Lecture 18,A23: OpenAI & RAG,Day 1 of 3
+08-29,Fri,Module 12: ML - Lecture 19,A23: OpenAI & RAG,Day 2 of 3
+08-30,Sat,Module 12: ML - Lecture 20,A23: OpenAI & RAG,Day 3 of 3
+08-31,Sun,Module 12: ML - Lecture 21,A24: Ollama Chatbot,Day 1 of 3
+09-01,Mon,Module 12: ML - Lecture 22,A24: Ollama Chatbot,Day 2 of 3
+09-02,Tue,Module 12: ML - Lecture 23,A24: Ollama Chatbot,Day 3 of 3
+09-03,Wed,Module 12: ML - Lecture 24,A25: Prompting & Chains,Day 1 of 3
+09-04,Thu,Module 12: ML - Lecture 25,A25: Prompting & Chains,Day 2 of 3
+09-05,Fri,Module 12: ML - Lecture 26,A25: Prompting & Chains,Day 3 of 3
+09-06,Sat,Module 12: ML - Lecture 27,A26: Groq API Chatbot,Day 1 of 4
+09-07,Sun,Module 12: ML - Lecture 28,A26: Groq API Chatbot,Day 2 of 4
+09-08,Mon,Module 12: ML - Lecture 29,A26: Groq API Chatbot,Day 3 of 4
+09-09,Tue,Module 12: ML - Lecture 30,A26: Groq API Chatbot,Day 4 of 4
+09-10,Wed,Module 12: ML - Lecture 31,A27: Chatbots with History,Day 1 of 3
+09-11,Thu,Module 12: ML - Lecture 32,A27: Chatbots with History,Day 2 of 3
+09-12,Fri,Module 12: ML - Lecture 33,A27: Chatbots with History,Day 3 of 3
+09-13,Sat,Module 12: ML - Lecture 34,A28: Q&A RAG Chatbot,Day 1 of 4
+09-14,Sun,Module 12: ML - Lecture 35,A28: Q&A RAG Chatbot,Day 2 of 4
+09-15,Mon,Module 12: ML - Lecture 36,A28: Q&A RAG Chatbot,Day 3 of 4
+09-16,Tue,Module 12: ML - Lecture 37,A28: Q&A RAG Chatbot,Day 4 of 4
+09-17,Wed,Module 12: ML - Lecture 38,A29: Q&A Chatbot App,Day 1 of 4
+09-18,Thu,Module 12: ML - Lecture 39,A29: Q&A Chatbot App,Day 2 of 4
+09-19,Fri,Module 12: ML - Lecture 40,A29: Q&A Chatbot App,Day 3 of 4
+09-20,Sat,Module 13: NLP - Lecture 1,A29: Q&A Chatbot App,Day 4 of 4
+09-21,Sun,Module 13: NLP - Lecture 2,A30: Chat Groq RAG,Day 1 of 3
+09-22,Mon,Module 13: NLP - Lecture 3,A30: Chat Groq RAG,Day 2 of 3
+09-23,Tue,Module 13: NLP - Lecture 4,A30: Chat Groq RAG,Day 3 of 3
+09-24,Wed,Module 13: NLP - Lecture 5,A31: PDF Q&A Chatbot,Day 1 of 3
+09-25,Thu,Module 13: NLP - Lecture 6,A31: PDF Q&A Chatbot,Day 2 of 3
+09-26,Fri,Module 13: NLP - Lecture 7,A31: PDF Q&A Chatbot,Day 3 of 3
+09-27,Sat,Module 13: NLP - Lecture 8,A32: AI Agents,Day 1 of 3
+09-28,Sun,Module 13: NLP - Lecture 9,A32: AI Agents,Day 2 of 3
+09-29,Mon,Module 13: NLP - Lecture 10,A32: AI Agents,Day 3 of 3
+09-30,Tue,Module 13: NLP - Lecture 11,A33: Chat with SQL DB,Day 1 of 2
+10-01,Wed,Module 13: NLP - Lecture 12,A33: Chat with SQL DB,Day 2 of 2
+10-02,Thu,Module 13: NLP - Lecture 13,A34: Text Summarization,Day 1 of 2
+10-03,Fri,Module 13: NLP - Lecture 14,A34: Text Summarization,Day 2 of 2
+10-04,Sat,Module 13: NLP - Lecture 15,A35: Text-to-Math Agent,Day 1 of 2
+10-05,Sun,Module 13: NLP - Lecture 16,A35: Text-to-Math Agent,Day 2 of 2
+10-06,Mon,Module 13: NLP - Lecture 17,A36: HuggingFace Integration,Day 1 of 2
+10-07,Tue,Module 13: NLP - Lecture 18,A36: HuggingFace Integration,Day 2 of 2
+10-08,Wed,Module 13: NLP - Lecture 19,A37: AstraDB RAG,Day 1 of 2
+10-09,Thu,Module 13: NLP - Lecture 20,A37: AstraDB RAG,Day 2 of 2
+10-10,Fri,Module 14: Deep Learning - Lecture 1,A38: CodeLlama with Ollama,Day 1 of 2
+10-11,Sat,Module 14: Deep Learning - Lecture 2,A38: CodeLlama with Ollama,Day 2 of 2
+10-12,Sun,Module 14: Deep Learning - Lecture 3,A39: App Deployment,Day 1 of 4
+10-13,Mon,Module 14: Deep Learning - Lecture 4,A39: App Deployment,Day 2 of 4
+10-14,Tue,Module 15: DL Model Training - Lecture 1,A39: App Deployment,Day 3 of 4
+10-15,Wed,Module 15: DL Model Training - Lecture 2,A39: App Deployment,Day 4 of 4
+10-16,Thu,Module 15: DL Model Training - Lecture 3,Review Module 5-7,Day 1 of 3
+10-17,Fri,Module 15: DL Model Training - Lecture 4,Review Module 5-7,Day 2 of 3
+10-18,Sat,Module 15: DL Model Training - Lecture 5,Review Module 5-7,Day 3 of 3
+10-19,Sun,Module 15: DL Model Training - Lecture 6,Review Module 8-11,Day 1 of 3
+10-20,Mon,Module 15: DL Model Training - Lecture 7,Review Module 8-11,Day 2 of 3
+10-21,Tue,Module 15: DL Model Training - Lecture 8,Review Module 8-11,Day 3 of 3
+10-22,Wed,Module 15: DL Model Training - Lecture 9,Review Module 12-13,Day 1 of 3
+10-23,Thu,Module 15: DL Model Training - Lecture 10,Review Module 12-13,Day 2 of 3
+10-24,Fri,Module 16: Model Performance - Lecture 1,Review Module 12-13,Day 3 of 3
+10-25,Sat,Module 16: Model Performance - Lecture 2,Review Module 14-15,Day 1 of 2
+10-26,Sun,Module 16: Model Performance - Lecture 3,Review Module 14-15,Day 2 of 2
+10-27,Mon,Module 16: Model Performance - Lecture 4,Continue Learning,Day 1
+10-28,Tue,Module 16: Model Performance - Lecture 5,Continue Learning,Day 2
+10-29,Wed,Module 16: Model Performance - Lecture 6,Continue Learning,Day 3
+10-30,Thu,Module 16: Model Performance - Lecture 7,Continue Learning,Day 4
+10-31,Fri,Module 16: Model Performance - Lecture 8,Continue Learning,Day 5
+11-01,Sat,Module 16: Model Performance - Lecture 9,Continue Learning,Day 6
+11-02,Sun,Module 16: Model Performance - Lecture 10,Continue Learning,Day 7
+11-03,Mon,Module 16: Model Performance - Lecture 11,Continue Learning,Day 8
+11-04,Tue,Module 17: ANN Project - Lecture 1,Continue Learning,Day 9
+11-05,Wed,Module 17: ANN Project - Lecture 2,Continue Learning,Day 10
+11-06,Thu,Module 17: ANN Project - Lecture 3,Continue Learning,Day 11
+11-07,Fri,Module 17: ANN Project - Lecture 4,Continue Learning,Day 12
+11-08,Sat,Module 17: ANN Project - Lecture 5,Continue Learning,Day 13
+11-09,Sun,Module 17: ANN Project - Lecture 6,Continue Learning,Day 14
+11-10,Mon,Module 17: ANN Project - Lecture 7,Continue Learning,Day 15
+11-11,Tue,Module 17: ANN Project - Lecture 8,Continue Learning,Day 16
+11-12,Wed,Module 17: ANN Project - Lecture 9,Continue Learning,Day 17
+11-13,Thu,Module 17: ANN Project - Lecture 10,Continue Learning,Day 18
+11-14,Fri,Module 17: ANN Project - Lecture 11,Continue Learning,Day 19
+11-15,Sat,Module 17: ANN Project - Lecture 12,Continue Learning,Day 20
+11-16,Sun,Module 17: ANN Project - Lecture 13,Continue Learning,Day 21
+11-17,Mon,Module 18: Transfer Learning - Lecture 1,Continue Learning,Day 22
+11-18,Tue,Module 18: Transfer Learning - Lecture 2,Continue Learning,Day 23
+11-19,Wed,Module 18: Transfer Learning - Lecture 3,Continue Learning,Day 24
+11-20,Thu,Module 18: Transfer Learning - Lecture 4,Continue Learning,Day 25
+11-21,Fri,Module 19: Simple RNN - Lecture 1,Continue Learning,Day 26
+11-22,Sat,Module 19: Simple RNN - Lecture 2,Continue Learning,Day 27
+11-23,Sun,Module 19: Simple RNN - Lecture 3,Continue Learning,Day 28
+11-24,Mon,Module 19: Simple RNN - Lecture 4,Continue Learning,Day 29
+11-25,Tue,Module 19: Simple RNN - Lecture 5,Continue Learning,Day 30
+11-26,Wed,Module 19: Simple RNN - Lecture 6,Continue Learning,Day 31
+11-27,Thu,Module 19: Simple RNN - Lecture 7,Continue Learning,Day 32
+11-28,Fri,Module 19: Simple RNN - Lecture 8,Continue Learning,Day 33
+11-29,Sat,Module 19: Simple RNN - Lecture 9,Continue Learning,Day 34
+11-30,Sun,Module 19: Simple RNN - Lecture 10,Continue Learning,Day 35
+12-01,Mon,Module 20: RNN Project - Lecture 1,Continue Learning,Day 36
+12-02,Tue,Module 20: RNN Project - Lecture 2,Continue Learning,Day 37
+12-03,Wed,Module 20: RNN Project - Lecture 3,Continue Learning,Day 38
+12-04,Thu,Module 20: RNN Project - Lecture 4,Continue Learning,Day 39
+12-05,Fri,Module 20: RNN Project - Lecture 5,Continue Learning,Day 40
+12-06,Sat,Module 20: RNN Project - Lecture 6,Continue Learning,Day 41
+12-07,Sun,Module 20: RNN Project - Lecture 7,Continue Learning,Day 42
+12-08,Mon,Module 20: RNN Project - Lecture 8,Continue Learning,Day 43
+12-09,Tue,Module 21: LSTM & GRU - Lecture 1,Continue Learning,Day 44
+12-10,Wed,Module 21: LSTM & GRU - Lecture 2,Continue Learning,Day 45
+12-11,Thu,Module 21: LSTM & GRU - Lecture 3,Continue Learning,Day 46
+12-12,Fri,Module 21: LSTM & GRU - Lecture 4,Continue Learning,Day 47
+12-13,Sat,Module 21: LSTM & GRU - Lecture 5,Continue Learning,Day 48
+12-14,Sun,Module 22: LSTM Next Word Prediction - Lecture 1,Continue Learning,Day 49
+12-15,Mon,Module 22: LSTM Next Word Prediction - Lecture 2,Continue Learning,Day 50
+12-16,Tue,Module 22: LSTM Next Word Prediction - Lecture 3,Continue Learning,Day 51
+12-17,Wed,Module 22: LSTM Next Word Prediction - Lecture 4,Continue Learning,Day 52
+12-18,Thu,Module 22: LSTM Next Word Prediction - Lecture 5,Continue Learning,Day 53
+12-19,Fri,Module 22: LSTM Next Word Prediction - Lecture 6,Continue Learning,Day 54
+12-20,Sat,Module 23: BiRNN - Lecture 1,Continue Learning,Day 55
+12-21,Sun,Module 23: BiRNN - Lecture 2,Continue Learning,Day 56
+12-22,Mon,Module 24: Transformers & ChatGPT - Lecture 1,Continue Learning,Day 57
+12-23,Tue,Module 24: Transformers & ChatGPT - Lecture 2,Continue Learning,Day 58
+12-24,Wed,Module 24: Transformers & ChatGPT - Lecture 3,Continue Learning,Day 59
+12-25,Thu,Module 24: Transformers & ChatGPT - Lecture 4,Continue Learning,Day 60
+12-26,Fri,Module 24: Transformers & ChatGPT - Lecture 5,Continue Learning,Day 61
+12-27,Sat,Module 24: Transformers & ChatGPT - Lecture 6,Continue Learning,Day 62
+12-28,Sun,Module 24: Transformers & ChatGPT - Lecture 7,Continue Learning,Day 63
+12-29,Mon,Module 24: Transformers & ChatGPT - Lecture 8,Continue Learning,Day 64
+12-30,Tue,Module 24: Transformers & ChatGPT - Lecture 9,Continue Learning,Day 65
+12-31,Wed,Module 24: Transformers & ChatGPT - Lecture 10,Continue Learning,Day 66
+01-01,Thu,Module 24: Transformers & ChatGPT - Lecture 11,Continue Learning,Day 67
+01-02,Fri,Module 24: Transformers & ChatGPT - Lecture 12,Continue Learning,Day 68
+01-03,Sat,Module 24: Transformers & ChatGPT - Lecture 13,Continue Learning,Day 69
+01-04,Sun,Module 24: Transformers & ChatGPT - Lecture 14,Continue Learning,Day 70
+01-05,Mon,Module 25: Gen AI & LLM - Lecture 1,Continue Learning,Day 71
+01-06,Tue,Module 25: Gen AI & LLM - Lecture 2,Continue Learning,Day 72
+01-07,Wed,Module 25: Gen AI & LLM - Lecture 3,Continue Learning,Day 73
+01-08,Thu,Module 25: Gen AI & LLM - Lecture 4,Continue Learning,Day 74
+01-09,Fri,Module 25: Gen AI & LLM - Lecture 5,Continue Learning,Day 75
+01-10,Sat,Module 25: Gen AI & LLM - Lecture 6,Continue Learning,Day 76
+01-11,Sun,Module 26: LangChain Intro - Lecture 1,Continue Learning,Day 77
+01-12,Mon,Module 26: LangChain Intro - Lecture 2,Continue Learning,Day 78
+01-13,Tue,Module 27: LangChain & OpenAI - Lecture 1,Continue Learning,Day 79
+01-14,Wed,Module 27: LangChain & OpenAI - Lecture 2,Continue Learning,Day 80
+01-15,Thu,Module 28: LangChain Components - Lecture 1,Continue Learning,Day 81
+01-16,Fri,Module 28: LangChain Components - Lecture 2,Continue Learning,Day 82
+01-17,Sat,Module 28: LangChain Components - Lecture 3,Continue Learning,Day 83
+01-18,Sun,Module 28: LangChain Components - Lecture 4,Continue Learning,Day 84
+01-19,Mon,Module 28: LangChain Components - Lecture 5,Continue Learning,Day 85
+01-20,Tue,Module 28: LangChain Components - Lecture 6,Continue Learning,Day 86
+01-21,Wed,Module 28: LangChain Components - Lecture 7,Continue Learning,Day 87
+01-22,Thu,Module 28: LangChain Components - Lecture 8,Continue Learning,Day 88
+01-23,Fri,Module 28: LangChain Components - Lecture 9,Continue Learning,Day 89
+01-24,Sat,Module 28: LangChain Components - Lecture 10,Continue Learning,Day 90
+01-25,Sun,Module 28: LangChain Components - Lecture 11,Continue Learning,Day 91
+01-26,Mon,Module 28: LangChain Components - Lecture 12,Continue Learning,Day 92
+01-27,Tue,Module 28: LangChain Components - Lecture 13,Continue Learning,Day 93
+01-28,Wed,Module 28: LangChain Components - Lecture 14,Continue Learning,Day 94
+01-29,Thu,Module 28: LangChain Components - Lecture 15,Continue Learning,Day 95
+01-30,Fri,Module 28: LangChain Components - Lecture 16,Continue Learning,Day 96
+01-31,Sat,Module 28: LangChain Components - Lecture 17,Continue Learning,Day 97
+02-01,Sun,Module 28: LangChain Components - Lecture 18,Continue Learning,Day 98
+02-02,Mon,Module 28: LangChain Components - Lecture 19,Continue Learning,Day 99
+02-03,Tue,Module 28: LangChain Components - Lecture 20,Continue Learning,Day 100
+02-04,Wed,Module 28: LangChain Components - Lecture 21,Continue Learning,Day 101
+02-05,Thu,Module 29: OpenAI & RAG - Lecture 1,Continue Learning,Day 102
+02-06,Fri,Module 29: OpenAI & RAG - Lecture 2,Continue Learning,Day 103
+02-07,Sat,Module 29: OpenAI & RAG - Lecture 3,Continue Learning,Day 104
+02-08,Sun,Module 29: OpenAI & RAG - Lecture 4,Continue Learning,Day 105
+02-09,Mon,Module 29: OpenAI & RAG - Lecture 5,Continue Learning,Day 106
+02-10,Tue,Module 29: OpenAI & RAG - Lecture 6,Continue Learning,Day 107
+02-11,Wed,Module 29: OpenAI & RAG - Lecture 7,Continue Learning,Day 108
+02-12,Thu,Module 30: Basic LLM App with LCEL - Lecture 1,Continue Learning,Day 109
+02-13,Fri,Module 30: Basic LLM App with LCEL - Lecture 2,Continue Learning,Day 110
+02-14,Sat,Module 30: Basic LLM App with LCEL - Lecture 3,Continue Learning,Day 111
+02-15,Sun,Module 30: Basic LLM App with LCEL - Lecture 4,Continue Learning,Day 112
+02-16,Mon,Module 30: Basic LLM App with LCEL - Lecture 5,Continue Learning,Day 113
+02-17,Tue,Module 30: Basic LLM App with LCEL - Lecture 6,Continue Learning,Day 114
+02-18,Wed,Module 30: Basic LLM App with LCEL - Lecture 7,Continue Learning,Day 115
+02-19,Thu,Module 30: Basic LLM App with LCEL - Lecture 8,Continue Learning,Day 116
+02-20,Fri,Module 30: Basic LLM App with LCEL - Lecture 9,Continue Learning,Day 117
+02-21,Sat,Module 30: Basic LLM App with LCEL - Lecture 10,Continue Learning,Day 118
+02-22,Sun,Module 30: Basic LLM App with LCEL - Lecture 11,Continue Learning,Day 119
+02-23,Mon,Module 30: Basic LLM App with LCEL - Lecture 12,Continue Learning,Day 120
+02-24,Tue,Module 31: Chatbots with Conversation History - Lecture 1,Continue Learning,Day 121
+02-25,Wed,Module 31: Chatbots with Conversation History - Lecture 2,Continue Learning,Day 122
+02-26,Thu,Module 31: Chatbots with Conversation History - Lecture 3,Continue Learning,Day 123
+02-27,Fri,Module 31: Chatbots with Conversation History - Lecture 4,Continue Learning,Day 124
+02-28,Sat,Module 32: Q&A ChatBot with Message History - Lecture 1,Continue Learning,Day 125
+03-01,Sun,Module 33: End-to-End Q&A ChatBot - Lecture 1,Continue Learning,Day 126
+03-02,Mon,Module 33: End-to-End Q&A ChatBot - Lecture 2,Continue Learning,Day 127
+03-03,Tue,Module 33: End-to-End Q&A ChatBot - Lecture 3,Continue Learning,Day 128
+03-04,Wed,Module 34: RAG with Groq & Llama3 - Lecture 1,Continue Learning,Day 129
+03-05,Thu,Module 34: RAG with Groq & Llama3 - Lecture 2,Continue Learning,Day 130
+03-06,Fri,Module 35: PDF Q&A Chatbot with History - Lecture 1,Continue Learning,Day 131
+03-07,Sat,Module 35: PDF Q&A Chatbot with History - Lecture 2,Continue Learning,Day 132
+03-08,Sun,Module 36: AI Agents & Search Engine - Lecture 1,Continue Learning,Day 133
+03-09,Mon,Module 36: AI Agents & Search Engine - Lecture 2,Continue Learning,Day 134
+03-10,Tue,Module 36: AI Agents & Search Engine - Lecture 3,Continue Learning,Day 135
+03-11,Wed,Module 36: AI Agents & Search Engine - Lecture 4,Continue Learning,Day 136
+03-12,Thu,Module 36: AI Agents & Search Engine - Lecture 5,Continue Learning,Day 137
+03-13,Fri,Module 36: AI Agents & Search Engine - Lecture 6,Continue Learning,Day 138
+03-14,Sat,Module 36: AI Agents & Search Engine - Lecture 7,Continue Learning,Day 139
+03-15,Sun,Module 37: Chat with SQL DB - Lecture 1,Continue Learning,Day 140
+03-16,Mon,Module 37: Chat with SQL DB - Lecture 2,Continue Learning,Day 141
+03-17,Tue,Module 37: Chat with SQL DB - Lecture 3,Continue Learning,Day 142
+03-18,Wed,Module 37: Chat with SQL DB - Lecture 4,Continue Learning,Day 143
+03-19,Thu,Module 38: Text Summarization - Lecture 1,Continue Learning,Day 144
+03-20,Fri,Module 38: Text Summarization - Lecture 2,Continue Learning,Day 145
+03-21,Sat,Module 38: Text Summarization - Lecture 3,Continue Learning,Day 146
+03-22,Sun,Module 39: Text-to-Math Problem Solver - Lecture 1,Continue Learning,Day 147
+03-23,Mon,Module 39: Text-to-Math Problem Solver - Lecture 2,Continue Learning,Day 148
+03-24,Tue,Module 40: HuggingFace & LangChain - Lecture 1,Continue Learning,Day 149
+03-25,Wed,Module 40: HuggingFace & LangChain - Lecture 2,Continue Learning,Day 150
+03-26,Thu,Module 41: PDF Query RAG - Lecture 1,Continue Learning,Day 151
+03-27,Fri,Module 41: PDF Query RAG - Lecture 2,Continue Learning,Day 152
+03-28,Sat,Module 42: CodeLlama with Ollama - Lecture 1,Continue Learning,Day 153
+03-29,Sun,Module 42: CodeLlama with Ollama - Lecture 2,Continue Learning,Day 154
+03-30,Mon,Module 43: Deployment of Gen AI Apps - Lecture 1,Continue Learning,Day 155
+03-31,Tue,Module 43: Deployment of Gen AI Apps - Lecture 2,Continue Learning,Day 156

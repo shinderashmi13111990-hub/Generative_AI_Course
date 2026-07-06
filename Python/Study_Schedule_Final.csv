@@ -1,0 +1,308 @@
+Date,Day,Activity Type,Content
+07-05,Sat,Assignment,A4: File Handling (Read, Write, Append, Modes)
+07-06,Sun,Assignment,A5: Importing, Creating Modules & Packages
+07-07,Mon,Assignment,A6: Exception Handling
+07-08,Tue,Lecture,Module 5: OOP - Lecture 2 (OOP Concepts)
+07-09,Wed,Lecture,Module 5: OOP - Lecture 3 (Inheritance)
+07-10,Thu,Lecture,Module 5: OOP - Lecture 4 (Polymorphism)
+07-11,Fri,Lecture,Module 5: OOP - Lecture 5 (Encapsulation)
+07-12,Sat,Lecture,Module 5: OOP - Lecture 6 (Abstraction)
+07-13,Sun,Lecture,Module 5: OOP - Lecture 7 (Magic Methods)
+07-14,Mon,Lecture,Module 5: OOP - Lecture 8 (Operator Overloading)
+07-15,Tue,Assignment,A7: Object-Oriented Programming (OOP)
+07-16,Wed,Lecture,Module 6: Streamlit - Lecture 1
+07-17,Thu,Assignment,A8: Streamlit (Basic App Building)
+07-18,Fri,Lecture,Module 7: NumPy - Lecture 1
+07-19,Sat,Lecture,Module 7: NumPy - Lecture 2
+07-20,Sun,Lecture,Module 7: NumPy - Lecture 3
+07-21,Mon,Lecture,Module 7: NumPy - Lecture 4
+07-22,Tue,Assignment,A9: NumPy (Mathematical & Statistical Operations)
+07-23,Wed,Lecture,Module 8: Pandas - Lecture 1
+07-24,Thu,Lecture,Module 8: Pandas - Lecture 2
+07-25,Fri,Lecture,Module 8: Pandas - Lecture 3
+07-26,Sat,Lecture,Module 8: Pandas - Lecture 4
+07-27,Sun,Lecture,Module 8: Pandas - Lecture 5
+07-28,Mon,Lecture,Module 8: Pandas - Lecture 6
+07-29,Tue,Lecture,Module 8: Pandas - Lecture 7
+07-30,Wed,Lecture,Module 8: Pandas - Lecture 8
+07-31,Thu,Lecture,Module 8: Pandas - Lecture 9
+08-01,Fri,Assignment,A10: Pandas (Series, DataFrame, Functions, Filtering & Analysis)
+08-02,Sat,Lecture,Module 9: Matplotlib - Lecture 1
+08-03,Sun,Lecture,Module 9: Matplotlib - Lecture 2
+08-04,Mon,Lecture,Module 9: Matplotlib - Lecture 3
+08-05,Tue,Lecture,Module 9: Matplotlib - Lecture 4
+08-06,Wed,Lecture,Module 9: Matplotlib - Lecture 5
+08-07,Thu,Lecture,Module 9: Matplotlib - Lecture 6
+08-08,Fri,Lecture,Module 9: Matplotlib - Lecture 7
+08-09,Sat,Lecture,Module 9: Matplotlib - Lecture 8
+08-10,Sun,Assignment,A11: Matplotlib (Core Plot Types & Visualization)
+08-11,Mon,Lecture,Module 10: Seaborn - Lecture 1
+08-12,Tue,Lecture,Module 10: Seaborn - Lecture 2
+08-13,Wed,Lecture,Module 10: Seaborn - Lecture 3
+08-14,Thu,Lecture,Module 10: Seaborn - Lecture 4
+08-15,Fri,Lecture,Module 10: Seaborn - Lecture 5
+08-16,Sat,Lecture,Module 10: Seaborn - Lecture 6
+08-17,Sun,Lecture,Module 10: Seaborn - Lecture 7
+08-18,Mon,Assignment,A12: Seaborn (Relational, Distribution, Categorical & Multi-Plots)
+08-19,Tue,Lecture,Module 11: Why Data Science Knowledge For Being An AI Engineer - Lecture 1
+08-20,Wed,Lecture,Module 12: Machine Learning - Lecture 1
+08-21,Thu,Lecture,Module 12: Machine Learning - Lecture 2
+08-22,Fri,Lecture,Module 12: Machine Learning - Lecture 3
+08-23,Sat,Lecture,Module 12: Machine Learning - Lecture 4
+08-24,Sun,Lecture,Module 12: Machine Learning - Lecture 5
+08-25,Mon,Lecture,Module 12: Machine Learning - Lecture 6
+08-26,Tue,Lecture,Module 12: Machine Learning - Lecture 7
+08-27,Wed,Lecture,Module 12: Machine Learning - Lecture 8
+08-28,Thu,Lecture,Module 12: Machine Learning - Lecture 9
+08-29,Fri,Lecture,Module 12: Machine Learning - Lecture 10
+08-30,Sat,Lecture,Module 12: Machine Learning - Lecture 11
+08-31,Sun,Lecture,Module 12: Machine Learning - Lecture 12
+09-01,Mon,Lecture,Module 12: Machine Learning - Lecture 13
+09-02,Tue,Lecture,Module 12: Machine Learning - Lecture 14
+09-03,Wed,Lecture,Module 12: Machine Learning - Lecture 15
+09-04,Thu,Lecture,Module 12: Machine Learning - Lecture 16
+09-05,Fri,Lecture,Module 12: Machine Learning - Lecture 17
+09-06,Sat,Lecture,Module 12: Machine Learning - Lecture 18
+09-07,Sun,Lecture,Module 12: Machine Learning - Lecture 19
+09-08,Mon,Lecture,Module 12: Machine Learning - Lecture 20
+09-09,Tue,Lecture,Module 12: Machine Learning - Lecture 21
+09-10,Wed,Lecture,Module 12: Machine Learning - Lecture 22
+09-11,Thu,Lecture,Module 12: Machine Learning - Lecture 23
+09-12,Fri,Lecture,Module 12: Machine Learning - Lecture 24
+09-13,Sat,Lecture,Module 12: Machine Learning - Lecture 25
+09-14,Sun,Lecture,Module 12: Machine Learning - Lecture 26
+09-15,Mon,Lecture,Module 12: Machine Learning - Lecture 27
+09-16,Tue,Lecture,Module 12: Machine Learning - Lecture 28
+09-17,Wed,Lecture,Module 12: Machine Learning - Lecture 29
+09-18,Thu,Lecture,Module 12: Machine Learning - Lecture 30
+09-19,Fri,Lecture,Module 12: Machine Learning - Lecture 31
+09-20,Sat,Lecture,Module 12: Machine Learning - Lecture 32
+09-21,Sun,Lecture,Module 12: Machine Learning - Lecture 33
+09-22,Mon,Lecture,Module 12: Machine Learning - Lecture 34
+09-23,Tue,Lecture,Module 12: Machine Learning - Lecture 35
+09-24,Wed,Lecture,Module 12: Machine Learning - Lecture 36
+09-25,Thu,Lecture,Module 12: Machine Learning - Lecture 37
+09-26,Fri,Lecture,Module 12: Machine Learning - Lecture 38
+09-27,Sat,Lecture,Module 12: Machine Learning - Lecture 39
+09-28,Sun,Lecture,Module 12: Machine Learning - Lecture 40
+09-29,Mon,Assignment,A13: Data Gathering, Preprocessing & EDA
+09-30,Tue,Assignment,A14: Feature Engineering, Encoding, Scaling & Pipelines
+10-01,Wed,Assignment,A15: Core Algorithms, Metrics & Model Behavior
+10-02,Thu,Assignment,A16: SVM, Trees, Ensembles, Validation & Unsupervised Learning
+10-03,Fri,Lecture,Module 13: Natural Language Processing - Lecture 1
+10-04,Sat,Lecture,Module 13: Natural Language Processing - Lecture 2
+10-05,Sun,Lecture,Module 13: Natural Language Processing - Lecture 3
+10-06,Mon,Lecture,Module 13: Natural Language Processing - Lecture 4
+10-07,Tue,Lecture,Module 13: Natural Language Processing - Lecture 5
+10-08,Wed,Lecture,Module 13: Natural Language Processing - Lecture 6
+10-09,Thu,Lecture,Module 13: Natural Language Processing - Lecture 7
+10-10,Fri,Lecture,Module 13: Natural Language Processing - Lecture 8
+10-11,Sat,Lecture,Module 13: Natural Language Processing - Lecture 9
+10-12,Sun,Lecture,Module 13: Natural Language Processing - Lecture 10
+10-13,Mon,Lecture,Module 13: Natural Language Processing - Lecture 11
+10-14,Tue,Lecture,Module 13: Natural Language Processing - Lecture 12
+10-15,Wed,Lecture,Module 13: Natural Language Processing - Lecture 13
+10-16,Thu,Lecture,Module 13: Natural Language Processing - Lecture 14
+10-17,Fri,Lecture,Module 13: Natural Language Processing - Lecture 15
+10-18,Sat,Lecture,Module 13: Natural Language Processing - Lecture 16
+10-19,Sun,Lecture,Module 13: Natural Language Processing - Lecture 17
+10-20,Mon,Lecture,Module 13: Natural Language Processing - Lecture 18
+10-21,Tue,Lecture,Module 13: Natural Language Processing - Lecture 19
+10-22,Wed,Lecture,Module 13: Natural Language Processing - Lecture 20
+10-23,Thu,Assignment,A17: Text Cleaning, Preprocessing & NLP Pipeline
+10-24,Fri,Assignment,A18: Text Vectorization Techniques
+10-25,Sat,Assignment,A19: Word2Vec Text Embeddings
+10-26,Sun,Assignment,A20: Building & Deploying a Recommendation System
+10-27,Mon,Lecture,Module 14: Deep Learning - Lecture 1
+10-28,Tue,Lecture,Module 14: Deep Learning - Lecture 2
+10-29,Wed,Lecture,Module 14: Deep Learning - Lecture 3
+10-30,Thu,Lecture,Module 14: Deep Learning - Lecture 4
+10-31,Fri,Lecture,Module 15: Fundamentals for Training Deep Learning Model - Lecture 1
+11-01,Sat,Lecture,Module 15: Fundamentals for Training Deep Learning Model - Lecture 2
+11-02,Sun,Lecture,Module 15: Fundamentals for Training Deep Learning Model - Lecture 3
+11-03,Mon,Lecture,Module 15: Fundamentals for Training Deep Learning Model - Lecture 4
+11-04,Tue,Lecture,Module 15: Fundamentals for Training Deep Learning Model - Lecture 5
+11-05,Wed,Lecture,Module 15: Fundamentals for Training Deep Learning Model - Lecture 6
+11-06,Thu,Lecture,Module 15: Fundamentals for Training Deep Learning Model - Lecture 7
+11-07,Fri,Lecture,Module 15: Fundamentals for Training Deep Learning Model - Lecture 8
+11-08,Sat,Lecture,Module 15: Fundamentals for Training Deep Learning Model - Lecture 9
+11-09,Sun,Lecture,Module 15: Fundamentals for Training Deep Learning Model - Lecture 10
+11-10,Mon,Lecture,Module 16: Improving Performance of Model - Lecture 1
+11-11,Tue,Lecture,Module 16: Improving Performance of Model - Lecture 2
+11-12,Wed,Lecture,Module 16: Improving Performance of Model - Lecture 3
+11-13,Thu,Lecture,Module 16: Improving Performance of Model - Lecture 4
+11-14,Fri,Lecture,Module 16: Improving Performance of Model - Lecture 5
+11-15,Sat,Lecture,Module 16: Improving Performance of Model - Lecture 6
+11-16,Sun,Lecture,Module 16: Improving Performance of Model - Lecture 7
+11-17,Mon,Lecture,Module 16: Improving Performance of Model - Lecture 8
+11-18,Tue,Lecture,Module 16: Improving Performance of Model - Lecture 9
+11-19,Wed,Lecture,Module 16: Improving Performance of Model - Lecture 10
+11-20,Thu,Lecture,Module 16: Improving Performance of Model - Lecture 11
+11-21,Fri,Lecture,Module 17: ANN Project Implementation - Lecture 1
+11-22,Sat,Lecture,Module 17: ANN Project Implementation - Lecture 2
+11-23,Sun,Lecture,Module 17: ANN Project Implementation - Lecture 3
+11-24,Mon,Lecture,Module 17: ANN Project Implementation - Lecture 4
+11-25,Tue,Lecture,Module 17: ANN Project Implementation - Lecture 5
+11-26,Wed,Lecture,Module 17: ANN Project Implementation - Lecture 6
+11-27,Thu,Lecture,Module 17: ANN Project Implementation - Lecture 7
+11-28,Fri,Lecture,Module 17: ANN Project Implementation - Lecture 8
+11-29,Sat,Lecture,Module 17: ANN Project Implementation - Lecture 9
+11-30,Sun,Lecture,Module 17: ANN Project Implementation - Lecture 10
+12-01,Mon,Lecture,Module 17: ANN Project Implementation - Lecture 11
+12-02,Tue,Lecture,Module 17: ANN Project Implementation - Lecture 12
+12-03,Wed,Lecture,Module 17: ANN Project Implementation - Lecture 13
+12-04,Thu,Lecture,Module 18: Pretraining and Transfer Learning in Gen AI Models - Lecture 1
+12-05,Fri,Lecture,Module 18: Pretraining and Transfer Learning in Gen AI Models - Lecture 2
+12-06,Sat,Lecture,Module 18: Pretraining and Transfer Learning in Gen AI Models - Lecture 3
+12-07,Sun,Lecture,Module 18: Pretraining and Transfer Learning in Gen AI Models - Lecture 4
+12-08,Mon,Lecture,Module 19: Simple RNN Indepth Intuition - Lecture 1
+12-09,Tue,Lecture,Module 19: Simple RNN Indepth Intuition - Lecture 2
+12-10,Wed,Lecture,Module 19: Simple RNN Indepth Intuition - Lecture 3
+12-11,Thu,Lecture,Module 19: Simple RNN Indepth Intuition - Lecture 4
+12-12,Fri,Lecture,Module 19: Simple RNN Indepth Intuition - Lecture 5
+12-13,Sat,Lecture,Module 19: Simple RNN Indepth Intuition - Lecture 6
+12-14,Sun,Lecture,Module 19: Simple RNN Indepth Intuition - Lecture 7
+12-15,Mon,Lecture,Module 19: Simple RNN Indepth Intuition - Lecture 8
+12-16,Tue,Lecture,Module 19: Simple RNN Indepth Intuition - Lecture 9
+12-17,Wed,Lecture,Module 19: Simple RNN Indepth Intuition - Lecture 10
+12-18,Thu,Lecture,Module 20: Deep Learning Project with Simple RNN - Lecture 1
+12-19,Fri,Lecture,Module 20: Deep Learning Project with Simple RNN - Lecture 2
+12-20,Sat,Lecture,Module 20: Deep Learning Project with Simple RNN - Lecture 3
+12-21,Sun,Lecture,Module 20: Deep Learning Project with Simple RNN - Lecture 4
+12-22,Mon,Lecture,Module 20: Deep Learning Project with Simple RNN - Lecture 5
+12-23,Tue,Lecture,Module 20: Deep Learning Project with Simple RNN - Lecture 6
+12-24,Wed,Lecture,Module 20: Deep Learning Project with Simple RNN - Lecture 7
+12-25,Thu,Lecture,Module 20: Deep Learning Project with Simple RNN - Lecture 8
+12-26,Fri,Lecture,Module 21: LSTM and GRU Indepth Intuition - Lecture 1
+12-27,Sat,Lecture,Module 21: LSTM and GRU Indepth Intuition - Lecture 2
+12-28,Sun,Lecture,Module 21: LSTM and GRU Indepth Intuition - Lecture 3
+12-29,Mon,Lecture,Module 21: LSTM and GRU Indepth Intuition - Lecture 4
+12-30,Tue,Lecture,Module 21: LSTM and GRU Indepth Intuition - Lecture 5
+12-31,Wed,Lecture,Module 22: LSTM Next Word Prediction Project (Large Language Model) - Lecture 1
+01-01,Thu,Lecture,Module 22: LSTM Next Word Prediction Project (Large Language Model) - Lecture 2
+01-02,Fri,Lecture,Module 22: LSTM Next Word Prediction Project (Large Language Model) - Lecture 3
+01-03,Sat,Lecture,Module 22: LSTM Next Word Prediction Project (Large Language Model) - Lecture 4
+01-04,Sun,Lecture,Module 22: LSTM Next Word Prediction Project (Large Language Model) - Lecture 5
+01-05,Mon,Lecture,Module 22: LSTM Next Word Prediction Project (Large Language Model) - Lecture 6
+01-06,Tue,Lecture,Module 23: BIDirectional RNN Indepth Intuition - Lecture 1
+01-07,Wed,Lecture,Module 23: BIDirectional RNN Indepth Intuition - Lecture 2
+01-08,Thu,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 1
+01-09,Fri,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 2
+01-10,Sat,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 3
+01-11,Sun,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 4
+01-12,Mon,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 5
+01-13,Tue,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 6
+01-14,Wed,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 7
+01-15,Thu,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 8
+01-16,Fri,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 9
+01-17,Sat,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 10
+01-18,Sun,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 11
+01-19,Mon,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 12
+01-20,Tue,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 13
+01-21,Wed,Lecture,Module 24: Transformers and ChatGPT Evolution - Lecture 14
+01-22,Thu,Lecture,Module 25: Introduction To Gen AI and LLM Models - Lecture 1
+01-23,Fri,Lecture,Module 25: Introduction To Gen AI and LLM Models - Lecture 2
+01-24,Sat,Lecture,Module 25: Introduction To Gen AI and LLM Models - Lecture 3
+01-25,Sun,Lecture,Module 25: Introduction To Gen AI and LLM Models - Lecture 4
+01-26,Mon,Lecture,Module 25: Introduction To Gen AI and LLM Models - Lecture 5
+01-27,Tue,Lecture,Module 25: Introduction To Gen AI and LLM Models - Lecture 6
+01-28,Wed,Lecture,Module 26: Introduction To Langchain For Generative AI - Lecture 1
+01-29,Thu,Lecture,Module 26: Introduction To Langchain For Generative AI - Lecture 2
+01-30,Fri,Lecture,Module 27: Getting Started with Langchain and OpenAI - Lecture 1
+01-31,Sat,Lecture,Module 27: Getting Started with Langchain and OpenAI - Lecture 2
+02-01,Sun,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 1
+02-02,Mon,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 2
+02-03,Tue,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 3
+02-04,Wed,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 4
+02-05,Thu,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 5
+02-06,Fri,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 6
+02-07,Sat,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 7
+02-08,Sun,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 8
+02-09,Mon,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 9
+02-10,Tue,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 10
+02-11,Wed,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 11
+02-12,Thu,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 12
+02-13,Fri,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 13
+02-14,Sat,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 14
+02-15,Sun,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 15
+02-16,Mon,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 16
+02-17,Tue,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 17
+02-18,Wed,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 18
+02-19,Thu,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 19
+02-20,Fri,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 20
+02-21,Sat,Lecture,Module 28: Important Components and Modules in Langchain - Lecture 21
+02-22,Sun,Assignment,A21: LangChain Document Loaders & Text Splitters
+02-23,Mon,Assignment,A22: Embedding Models, Vector Stores & Similarity Search
+02-24,Tue,Lecture,Module 29: Getting Started with OpenAI and OLLAMA and Creating RAG - Lecture 1
+02-25,Wed,Lecture,Module 29: Getting Started with OpenAI and OLLAMA and Creating RAG - Lecture 2
+02-26,Thu,Lecture,Module 29: Getting Started with OpenAI and OLLAMA and Creating RAG - Lecture 3
+02-27,Fri,Lecture,Module 29: Getting Started with OpenAI and OLLAMA and Creating RAG - Lecture 4
+02-28,Sat,Lecture,Module 29: Getting Started with OpenAI and OLLAMA and Creating RAG - Lecture 5
+03-01,Sun,Lecture,Module 29: Getting Started with OpenAI and OLLAMA and Creating RAG - Lecture 6
+03-02,Mon,Lecture,Module 29: Getting Started with OpenAI and OLLAMA and Creating RAG - Lecture 7
+03-03,Tue,Assignment,A23: OpenAI & Retrieval-Augmented Generation (RAG)
+03-04,Wed,Assignment,A24: Ollama Chatbot
+03-05,Thu,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 1
+03-06,Fri,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 2
+03-07,Sat,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 3
+03-08,Sun,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 4
+03-09,Mon,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 5
+03-10,Tue,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 6
+03-11,Wed,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 7
+03-12,Thu,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 8
+03-13,Fri,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 9
+03-14,Sat,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 10
+03-15,Sun,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 11
+03-16,Mon,Lecture,Module 30: Building Basic LLM Application using LCEL - Lecture 12
+03-17,Tue,Assignment,A25: Prompting & LangChain Chains
+03-18,Wed,Assignment,A26: Groq API Chatbot, RAG & FastAPI Serving
+03-19,Thu,Lecture,Module 31: Building Chatbots with Conversation History using Langchain - Lecture 1
+03-20,Fri,Lecture,Module 31: Building Chatbots with Conversation History using Langchain - Lecture 2
+03-21,Sat,Lecture,Module 31: Building Chatbots with Conversation History using Langchain - Lecture 3
+03-22,Sun,Lecture,Module 31: Building Chatbots with Conversation History using Langchain - Lecture 4
+03-23,Mon,Assignment,A27: Chatbots with Conversation History using LangChain
+03-24,Tue,Lecture,Module 32: Conversational Q & A ChatBot with Message History - Lecture 1
+03-25,Wed,Assignment,A28: Q&A RAG Chatbot with Message History
+03-26,Thu,Lecture,Module 33: End to End Q and A ChatBot Gen AI App - Lecture 1
+03-27,Fri,Lecture,Module 33: End to End Q and A ChatBot Gen AI App - Lecture 2
+03-28,Sat,Lecture,Module 33: End to End Q and A ChatBot Gen AI App - Lecture 3
+03-29,Sun,Assignment,A29: Q&A Chatbot Application (OpenAI & Ollama)
+03-30,Mon,Lecture,Module 34: RAG Document Q&A with GROQ API and LLAMA3 - Lecture 1
+03-31,Tue,Lecture,Module 34: RAG Document Q&A with GROQ API and LLAMA3 - Lecture 2
+04-01,Wed,Assignment,A30: Chat Groq RAG Application with Streamlit UI
+04-02,Thu,Lecture,Module 35: Conversational Q & A Chat with PDF ChatBot with Message History - Lecture 1
+04-03,Fri,Lecture,Module 35: Conversational Q & A Chat with PDF ChatBot with Message History - Lecture 2
+04-04,Sat,Assignment,A31: Conversational PDF Q&A Chatbot with Message History
+04-05,Sun,Lecture,Module 36: AI Agents and Search Engine with Langchain Tools - Lecture 1
+04-06,Mon,Lecture,Module 36: AI Agents and Search Engine with Langchain Tools - Lecture 2
+04-07,Tue,Lecture,Module 36: AI Agents and Search Engine with Langchain Tools - Lecture 3
+04-08,Wed,Lecture,Module 36: AI Agents and Search Engine with Langchain Tools - Lecture 4
+04-09,Thu,Lecture,Module 36: AI Agents and Search Engine with Langchain Tools - Lecture 5
+04-10,Fri,Lecture,Module 36: AI Agents and Search Engine with Langchain Tools - Lecture 6
+04-11,Sat,Lecture,Module 36: AI Agents and Search Engine with Langchain Tools - Lecture 7
+04-12,Sun,Assignment,A32: AI Agents using LangChain
+04-13,Mon,Lecture,Module 37: Chat with SQL DB with Langchain SQL Toolkit and Agenttype - Lecture 1
+04-14,Tue,Lecture,Module 37: Chat with SQL DB with Langchain SQL Toolkit and Agenttype - Lecture 2
+04-15,Wed,Lecture,Module 37: Chat with SQL DB with Langchain SQL Toolkit and Agenttype - Lecture 3
+04-16,Thu,Lecture,Module 37: Chat with SQL DB with Langchain SQL Toolkit and Agenttype - Lecture 4
+04-17,Fri,Assignment,A33: Chat with SQL Database using LangChain
+04-18,Sat,Lecture,Module 38: Text Summarization with Langchain - Lecture 1
+04-19,Sun,Lecture,Module 38: Text Summarization with Langchain - Lecture 2
+04-20,Mon,Lecture,Module 38: Text Summarization with Langchain - Lecture 3
+04-21,Tue,Assignment,A34: Text Summarization using LangChain
+04-22,Wed,Lecture,Module 39: Text To Math Problem Solver - Lecture 1
+04-23,Thu,Lecture,Module 39: Text To Math Problem Solver - Lecture 2
+04-24,Fri,Assignment,A35: Text-to-Math Agent
+04-25,Sat,Lecture,Module 40: Huggingface and Langchain Integration - Lecture 1
+04-26,Sun,Lecture,Module 40: Huggingface and Langchain Integration - Lecture 2
+04-27,Mon,Assignment,A36: HuggingFace Integration
+04-28,Tue,Lecture,Module 41: PDF Query RAG with Langchain and AstraDB - Lecture 1
+04-29,Wed,Lecture,Module 41: PDF Query RAG with Langchain and AstraDB - Lecture 2
+04-30,Thu,Assignment,A37: AstraDB RAG
+05-01,Fri,Lecture,Module 42: Working with CodeLlama with Ollama - Lecture 1
+05-02,Sat,Lecture,Module 42: Working with CodeLlama with Ollama - Lecture 2
+05-03,Sun,Assignment,A38: CodeLlama with Ollama
+05-04,Mon,Lecture,Module 43: Deployment of Gen AI Apps - Lecture 1
+05-05,Tue,Lecture,Module 43: Deployment of Gen AI Apps - Lecture 2
+05-06,Wed,Assignment,A39: App Deployment
+05-07,Thu,Review,Course Completion - Review & Portfolio Building

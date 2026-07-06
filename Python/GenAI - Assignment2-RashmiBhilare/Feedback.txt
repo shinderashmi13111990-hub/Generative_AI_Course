@@ -1,0 +1,7 @@
+Mentor Feedback:
+You've done a solid job implementing all four tasks with correct logic and proper use of control flow statements. Your code is clean and organized, and I appreciate that you went the extra mile with the optional tax calculation and discount counting. To improve your score, make three quick fixes: (1) add exit() after the error message in Task 1 to fully satisfy the requirements, (2) format Task 2's output as a proper table with aligned columns, and (3) add a 'How to Run' section to your README. These are small tweaks that will make your submission more complete and professional. Great foundation—keep building on this!
+
+Requirements Missing:
+1. Task 1: Explicit exit() call after error message - currently prints error but doesn't terminate
+2. README.md: Missing 'How to Run' section with specific instructions for each task
+3. Task 2: Summary table not clearly formatted as a table structure (header row with columns)

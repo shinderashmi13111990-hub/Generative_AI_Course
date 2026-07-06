@@ -1,0 +1,271 @@
+Date,Day,Module/Video Topic,Assignment
+07-05,Sat,Module 5: OOP - Lecture 2 (OOP Concepts),A4: File Handling
+07-06,Sun,Module 5: OOP - Lecture 3 (Inheritance),A4: File Handling
+07-07,Mon,Module 5: OOP - Lecture 4 (Polymorphism),A5: Modules & Packages
+07-08,Tue,Module 5: OOP - Lecture 5 (Encapsulation),A5: Modules & Packages
+07-09,Wed,Module 5: OOP - Lecture 6 (Abstraction),A6: Exception Handling
+07-10,Thu,Module 5: OOP - Lecture 7 (Magic Methods),A6: Exception Handling
+07-11,Fri,Module 5: OOP - Lecture 8 (Operator Overloading),A7: OOP
+07-12,Sat,Module 6: Streamlit - Lecture 1,A7: OOP
+07-13,Sun,Module 7: NumPy - Lecture 1,A8: Streamlit
+07-14,Mon,Module 7: NumPy - Lecture 2,A8: Streamlit
+07-15,Tue,Module 7: NumPy - Lecture 3,A9: NumPy
+07-16,Wed,Module 7: NumPy - Lecture 4,A9: NumPy
+07-17,Thu,Module 8: Pandas - Lecture 1,A10: Pandas
+07-18,Fri,Module 8: Pandas - Lecture 2,A10: Pandas
+07-19,Sat,Module 8: Pandas - Lecture 3,A10: Pandas
+07-20,Sun,Module 8: Pandas - Lecture 4,A11: Matplotlib
+07-21,Mon,Module 8: Pandas - Lecture 5,A11: Matplotlib
+07-22,Tue,Module 8: Pandas - Lecture 6,A11: Matplotlib
+07-23,Wed,Module 8: Pandas - Lecture 7,A12: Seaborn
+07-24,Thu,Module 8: Pandas - Lecture 8,A12: Seaborn
+07-25,Fri,Module 8: Pandas - Lecture 9,A12: Seaborn
+07-26,Sat,Module 9: Matplotlib - Lecture 1,A13: EDA
+07-27,Sun,Module 9: Matplotlib - Lecture 2,A13: EDA
+07-28,Mon,Module 9: Matplotlib - Lecture 3,A13: EDA
+07-29,Tue,Module 9: Matplotlib - Lecture 4,A14: Feature Engineering
+07-30,Wed,Module 9: Matplotlib - Lecture 5,A14: Feature Engineering
+07-31,Thu,Module 9: Matplotlib - Lecture 6,A14: Feature Engineering
+08-01,Fri,Module 9: Matplotlib - Lecture 7,A15: Core Algorithms
+08-02,Sat,Module 9: Matplotlib - Lecture 8,A15: Core Algorithms
+08-03,Sun,Module 10: Seaborn - Lecture 1,A15: Core Algorithms
+08-04,Mon,Module 10: Seaborn - Lecture 2,A16: SVM & Ensembles
+08-05,Tue,Module 10: Seaborn - Lecture 3,A16: SVM & Ensembles
+08-06,Wed,Module 10: Seaborn - Lecture 4,A16: SVM & Ensembles
+08-07,Thu,Module 10: Seaborn - Lecture 5,A17: NLP Preprocessing
+08-08,Fri,Module 10: Seaborn - Lecture 6,A17: NLP Preprocessing
+08-09,Sat,Module 10: Seaborn - Lecture 7,A17: NLP Preprocessing
+08-10,Sun,Module 11: Data Science for AI - Lecture 1,A18: Text Vectorization
+08-11,Mon,Module 12: ML - Lecture 1,A18: Text Vectorization
+08-12,Tue,Module 12: ML - Lecture 2,A18: Text Vectorization
+08-13,Wed,Module 12: ML - Lecture 3,A19: Word2Vec Embeddings
+08-14,Thu,Module 12: ML - Lecture 4,A19: Word2Vec Embeddings
+08-15,Fri,Module 12: ML - Lecture 5,A19: Word2Vec Embeddings
+08-16,Sat,Module 12: ML - Lecture 6,A20: Recommendation System
+08-17,Sun,Module 12: ML - Lecture 7,A20: Recommendation System
+08-18,Mon,Module 12: ML - Lecture 8,A20: Recommendation System
+08-19,Tue,Module 12: ML - Lecture 9,A20: Recommendation System
+08-20,Wed,Module 12: ML - Lecture 10,A20: Recommendation System
+08-21,Thu,Module 12: ML - Lecture 11,A20: Recommendation System
+08-22,Fri,Module 12: ML - Lecture 12,A20: Recommendation System
+08-23,Sat,Module 12: ML - Lecture 13,A20: Recommendation System
+08-24,Sun,Module 12: ML - Lecture 14,A20: Recommendation System
+08-25,Mon,Module 12: ML - Lecture 15,A20: Recommendation System
+08-26,Tue,Module 12: ML - Lecture 16,A20: Recommendation System
+08-27,Wed,Module 12: ML - Lecture 17,A20: Recommendation System
+08-28,Thu,Module 12: ML - Lecture 18,A20: Recommendation System
+08-29,Fri,Module 12: ML - Lecture 19,A20: Recommendation System
+08-30,Sat,Module 12: ML - Lecture 20,A20: Recommendation System
+08-31,Sun,Module 12: ML - Lecture 21,A20: Recommendation System
+09-01,Mon,Module 12: ML - Lecture 22,A20: Recommendation System
+09-02,Tue,Module 12: ML - Lecture 23,A20: Recommendation System
+09-03,Wed,Module 12: ML - Lecture 24,A20: Recommendation System
+09-04,Thu,Module 12: ML - Lecture 25,A20: Recommendation System
+09-05,Fri,Module 12: ML - Lecture 26,A20: Recommendation System
+09-06,Sat,Module 12: ML - Lecture 27,A20: Recommendation System
+09-07,Sun,Module 12: ML - Lecture 28,A20: Recommendation System
+09-08,Mon,Module 12: ML - Lecture 29,A20: Recommendation System
+09-09,Tue,Module 12: ML - Lecture 30,A20: Recommendation System
+09-10,Wed,Module 12: ML - Lecture 31,A20: Recommendation System
+09-11,Thu,Module 12: ML - Lecture 32,A20: Recommendation System
+09-12,Fri,Module 12: ML - Lecture 33,A20: Recommendation System
+09-13,Sat,Module 12: ML - Lecture 34,A20: Recommendation System
+09-14,Sun,Module 12: ML - Lecture 35,A20: Recommendation System
+09-15,Mon,Module 12: ML - Lecture 36,A20: Recommendation System
+09-16,Tue,Module 12: ML - Lecture 37,A20: Recommendation System
+09-17,Wed,Module 12: ML - Lecture 38,A20: Recommendation System
+09-18,Thu,Module 12: ML - Lecture 39,A20: Recommendation System
+09-19,Fri,Module 12: ML - Lecture 40,A20: Recommendation System
+09-20,Sat,Module 13: NLP - Lecture 1,A21: LangChain Loaders
+09-21,Sun,Module 13: NLP - Lecture 2,A21: LangChain Loaders
+09-22,Mon,Module 13: NLP - Lecture 3,A21: LangChain Loaders
+09-23,Tue,Module 13: NLP - Lecture 4,A22: Embedding Models
+09-24,Wed,Module 13: NLP - Lecture 5,A22: Embedding Models
+09-25,Thu,Module 13: NLP - Lecture 6,A22: Embedding Models
+09-26,Fri,Module 13: NLP - Lecture 7,A22: Embedding Models
+09-27,Sat,Module 13: NLP - Lecture 8,A22: Embedding Models
+09-28,Sun,Module 13: NLP - Lecture 9,A22: Embedding Models
+09-29,Mon,Module 13: NLP - Lecture 10,A22: Embedding Models
+09-30,Tue,Module 13: NLP - Lecture 11,A22: Embedding Models
+10-01,Wed,Module 13: NLP - Lecture 12,A22: Embedding Models
+10-02,Thu,Module 13: NLP - Lecture 13,A22: Embedding Models
+10-03,Fri,Module 13: NLP - Lecture 14,A22: Embedding Models
+10-04,Sat,Module 13: NLP - Lecture 15,A22: Embedding Models
+10-05,Sun,Module 13: NLP - Lecture 16,A22: Embedding Models
+10-06,Mon,Module 13: NLP - Lecture 17,A22: Embedding Models
+10-07,Tue,Module 13: NLP - Lecture 18,A22: Embedding Models
+10-08,Wed,Module 13: NLP - Lecture 19,A22: Embedding Models
+10-09,Thu,Module 13: NLP - Lecture 20,A22: Embedding Models
+10-10,Fri,Module 14: Deep Learning - Lecture 1,A23: OpenAI & RAG
+10-11,Sat,Module 14: Deep Learning - Lecture 2,A23: OpenAI & RAG
+10-12,Sun,Module 14: Deep Learning - Lecture 3,A23: OpenAI & RAG
+10-13,Mon,Module 14: Deep Learning - Lecture 4,A24: Ollama Chatbot
+10-14,Tue,Module 15: DL Model Training - Lecture 1,A24: Ollama Chatbot
+10-15,Wed,Module 15: DL Model Training - Lecture 2,A24: Ollama Chatbot
+10-16,Thu,Module 15: DL Model Training - Lecture 3,A25: Prompting & Chains
+10-17,Fri,Module 15: DL Model Training - Lecture 4,A25: Prompting & Chains
+10-18,Sat,Module 15: DL Model Training - Lecture 5,A25: Prompting & Chains
+10-19,Sun,Module 15: DL Model Training - Lecture 6,A26: Groq API Chatbot
+10-20,Mon,Module 15: DL Model Training - Lecture 7,A26: Groq API Chatbot
+10-21,Tue,Module 15: DL Model Training - Lecture 8,A26: Groq API Chatbot
+10-22,Wed,Module 15: DL Model Training - Lecture 9,A26: Groq API Chatbot
+10-23,Thu,Module 15: DL Model Training - Lecture 10,A26: Groq API Chatbot
+10-24,Fri,Module 16: Model Performance - Lecture 1,A27: Chatbots with History
+10-25,Sat,Module 16: Model Performance - Lecture 2,A27: Chatbots with History
+10-26,Sun,Module 16: Model Performance - Lecture 3,A27: Chatbots with History
+10-27,Mon,Module 16: Model Performance - Lecture 4,A28: Q&A RAG Chatbot
+10-28,Tue,Module 16: Model Performance - Lecture 5,A28: Q&A RAG Chatbot
+10-29,Wed,Module 16: Model Performance - Lecture 6,A28: Q&A RAG Chatbot
+10-30,Thu,Module 16: Model Performance - Lecture 7,A28: Q&A RAG Chatbot
+10-31,Fri,Module 16: Model Performance - Lecture 8,A28: Q&A RAG Chatbot
+11-01,Sat,Module 16: Model Performance - Lecture 9,A28: Q&A RAG Chatbot
+11-02,Sun,Module 16: Model Performance - Lecture 10,A28: Q&A RAG Chatbot
+11-03,Mon,Module 16: Model Performance - Lecture 11,A28: Q&A RAG Chatbot
+11-04,Tue,Module 17: ANN Project - Lecture 1,A29: Q&A Chatbot App
+11-05,Wed,Module 17: ANN Project - Lecture 2,A29: Q&A Chatbot App
+11-06,Thu,Module 17: ANN Project - Lecture 3,A29: Q&A Chatbot App
+11-07,Fri,Module 17: ANN Project - Lecture 4,A29: Q&A Chatbot App
+11-08,Sat,Module 17: ANN Project - Lecture 5,A29: Q&A Chatbot App
+11-09,Sun,Module 17: ANN Project - Lecture 6,A29: Q&A Chatbot App
+11-10,Mon,Module 17: ANN Project - Lecture 7,A29: Q&A Chatbot App
+11-11,Tue,Module 17: ANN Project - Lecture 8,A29: Q&A Chatbot App
+11-12,Wed,Module 17: ANN Project - Lecture 9,A29: Q&A Chatbot App
+11-13,Thu,Module 17: ANN Project - Lecture 10,A29: Q&A Chatbot App
+11-14,Fri,Module 17: ANN Project - Lecture 11,A30: Chat Groq RAG
+11-15,Sat,Module 17: ANN Project - Lecture 12,A30: Chat Groq RAG
+11-16,Sun,Module 17: ANN Project - Lecture 13,A30: Chat Groq RAG
+11-17,Mon,Module 18: Transfer Learning - Lecture 1,A31: PDF Q&A Chatbot
+11-18,Tue,Module 18: Transfer Learning - Lecture 2,A31: PDF Q&A Chatbot
+11-19,Wed,Module 18: Transfer Learning - Lecture 3,A31: PDF Q&A Chatbot
+11-20,Thu,Module 18: Transfer Learning - Lecture 4,A31: PDF Q&A Chatbot
+11-21,Fri,Module 19: Simple RNN - Lecture 1,A32: AI Agents
+11-22,Sat,Module 19: Simple RNN - Lecture 2,A32: AI Agents
+11-23,Sun,Module 19: Simple RNN - Lecture 3,A32: AI Agents
+11-24,Mon,Module 19: Simple RNN - Lecture 4,A33: Chat with SQL DB
+11-25,Tue,Module 19: Simple RNN - Lecture 5,A33: Chat with SQL DB
+11-26,Wed,Module 19: Simple RNN - Lecture 6,A33: Chat with SQL DB
+11-27,Thu,Module 19: Simple RNN - Lecture 7,A34: Text Summarization
+11-28,Fri,Module 19: Simple RNN - Lecture 8,A34: Text Summarization
+11-29,Sat,Module 19: Simple RNN - Lecture 9,A34: Text Summarization
+11-30,Sun,Module 19: Simple RNN - Lecture 10,A35: Text-to-Math Agent
+12-01,Mon,Module 20: RNN Project - Lecture 1,A35: Text-to-Math Agent
+12-02,Tue,Module 20: RNN Project - Lecture 2,A35: Text-to-Math Agent
+12-03,Wed,Module 20: RNN Project - Lecture 3,A36: HuggingFace Integration
+12-04,Thu,Module 20: RNN Project - Lecture 4,A36: HuggingFace Integration
+12-05,Fri,Module 20: RNN Project - Lecture 5,A36: HuggingFace Integration
+12-06,Sat,Module 20: RNN Project - Lecture 6,A37: AstraDB RAG
+12-07,Sun,Module 20: RNN Project - Lecture 7,A37: AstraDB RAG
+12-08,Mon,Module 20: RNN Project - Lecture 8,A37: AstraDB RAG
+12-09,Tue,Module 21: LSTM & GRU - Lecture 1,A38: CodeLlama with Ollama
+12-10,Wed,Module 21: LSTM & GRU - Lecture 2,A38: CodeLlama with Ollama
+12-11,Thu,Module 21: LSTM & GRU - Lecture 3,A38: CodeLlama with Ollama
+12-12,Fri,Module 21: LSTM & GRU - Lecture 4,A39: App Deployment
+12-13,Sat,Module 21: LSTM & GRU - Lecture 5,A39: App Deployment
+12-14,Sun,Module 22: LSTM Next Word Prediction - Lecture 1,A39: App Deployment
+12-15,Mon,Module 22: LSTM Next Word Prediction - Lecture 2,A39: App Deployment
+12-16,Tue,Module 22: LSTM Next Word Prediction - Lecture 3,A39: App Deployment
+12-17,Wed,Module 22: LSTM Next Word Prediction - Lecture 4,A39: App Deployment
+12-18,Thu,Module 22: LSTM Next Word Prediction - Lecture 5,A39: App Deployment
+12-19,Fri,Module 22: LSTM Next Word Prediction - Lecture 6,A39: App Deployment
+12-20,Sat,Module 23: BiRNN - Lecture 1,Review & Consolidation
+12-21,Sun,Module 23: BiRNN - Lecture 2,Review & Consolidation
+12-22,Mon,Module 24: Transformers & ChatGPT - Lecture 1,Review & Consolidation
+12-23,Tue,Module 24: Transformers & ChatGPT - Lecture 2,Review & Consolidation
+12-24,Wed,Module 24: Transformers & ChatGPT - Lecture 3,Review & Consolidation
+12-25,Thu,Module 24: Transformers & ChatGPT - Lecture 4,Review & Consolidation
+12-26,Fri,Module 24: Transformers & ChatGPT - Lecture 5,Review & Consolidation
+12-27,Sat,Module 24: Transformers & ChatGPT - Lecture 6,Review & Consolidation
+12-28,Sun,Module 24: Transformers & ChatGPT - Lecture 7,Review & Consolidation
+12-29,Mon,Module 24: Transformers & ChatGPT - Lecture 8,Review & Consolidation
+12-30,Tue,Module 24: Transformers & ChatGPT - Lecture 9,Review & Consolidation
+12-31,Wed,Module 24: Transformers & ChatGPT - Lecture 10,Review & Consolidation
+01-01,Thu,Module 24: Transformers & ChatGPT - Lecture 11,Review & Consolidation
+01-02,Fri,Module 24: Transformers & ChatGPT - Lecture 12,Review & Consolidation
+01-03,Sat,Module 24: Transformers & ChatGPT - Lecture 13,Review & Consolidation
+01-04,Sun,Module 24: Transformers & ChatGPT - Lecture 14,Review & Consolidation
+01-05,Mon,Module 25: Gen AI & LLM - Lecture 1,Portfolio Building
+01-06,Tue,Module 25: Gen AI & LLM - Lecture 2,Portfolio Building
+01-07,Wed,Module 25: Gen AI & LLM - Lecture 3,Portfolio Building
+01-08,Thu,Module 25: Gen AI & LLM - Lecture 4,Portfolio Building
+01-09,Fri,Module 25: Gen AI & LLM - Lecture 5,Portfolio Building
+01-10,Sat,Module 25: Gen AI & LLM - Lecture 6,Portfolio Building
+01-11,Sun,Module 26: LangChain Intro - Lecture 1,Portfolio Building
+01-12,Mon,Module 26: LangChain Intro - Lecture 2,Portfolio Building
+01-13,Tue,Module 27: LangChain & OpenAI - Lecture 1,Portfolio Building
+01-14,Wed,Module 27: LangChain & OpenAI - Lecture 2,Portfolio Building
+01-15,Thu,Module 28: LangChain Components - Lecture 1,Portfolio Building
+01-16,Fri,Module 28: LangChain Components - Lecture 2,Portfolio Building
+01-17,Sat,Module 28: LangChain Components - Lecture 3,Portfolio Building
+01-18,Sun,Module 28: LangChain Components - Lecture 4,Portfolio Building
+01-19,Mon,Module 28: LangChain Components - Lecture 5,Portfolio Building
+01-20,Tue,Module 28: LangChain Components - Lecture 6,Portfolio Building
+01-21,Wed,Module 28: LangChain Components - Lecture 7,Portfolio Building
+01-22,Thu,Module 28: LangChain Components - Lecture 8,Portfolio Building
+01-23,Fri,Module 28: LangChain Components - Lecture 9,Portfolio Building
+01-24,Sat,Module 28: LangChain Components - Lecture 10,Portfolio Building
+01-25,Sun,Module 28: LangChain Components - Lecture 11,Portfolio Building
+01-26,Mon,Module 28: LangChain Components - Lecture 12,Portfolio Building
+01-27,Tue,Module 28: LangChain Components - Lecture 13,Portfolio Building
+01-28,Wed,Module 28: LangChain Components - Lecture 14,Portfolio Building
+01-29,Thu,Module 28: LangChain Components - Lecture 15,Portfolio Building
+01-30,Fri,Module 28: LangChain Components - Lecture 16,Portfolio Building
+01-31,Sat,Module 28: LangChain Components - Lecture 17,Portfolio Building
+02-01,Sun,Module 28: LangChain Components - Lecture 18,Portfolio Building
+02-02,Mon,Module 28: LangChain Components - Lecture 19,Portfolio Building
+02-03,Tue,Module 28: LangChain Components - Lecture 20,Portfolio Building
+02-04,Wed,Module 28: LangChain Components - Lecture 21,Portfolio Building
+02-05,Thu,Module 29: OpenAI & RAG - Lecture 1,Portfolio Building
+02-06,Fri,Module 29: OpenAI & RAG - Lecture 2,Portfolio Building
+02-07,Sat,Module 29: OpenAI & RAG - Lecture 3,Portfolio Building
+02-08,Sun,Module 29: OpenAI & RAG - Lecture 4,Portfolio Building
+02-09,Mon,Module 29: OpenAI & RAG - Lecture 5,Portfolio Building
+02-10,Tue,Module 29: OpenAI & RAG - Lecture 6,Portfolio Building
+02-11,Wed,Module 29: OpenAI & RAG - Lecture 7,Portfolio Building
+02-12,Thu,Module 30: Basic LLM App with LCEL - Lecture 1,Portfolio Building
+02-13,Fri,Module 30: Basic LLM App with LCEL - Lecture 2,Portfolio Building
+02-14,Sat,Module 30: Basic LLM App with LCEL - Lecture 3,Portfolio Building
+02-15,Sun,Module 30: Basic LLM App with LCEL - Lecture 4,Portfolio Building
+02-16,Mon,Module 30: Basic LLM App with LCEL - Lecture 5,Portfolio Building
+02-17,Tue,Module 30: Basic LLM App with LCEL - Lecture 6,Portfolio Building
+02-18,Wed,Module 30: Basic LLM App with LCEL - Lecture 7,Portfolio Building
+02-19,Thu,Module 30: Basic LLM App with LCEL - Lecture 8,Portfolio Building
+02-20,Fri,Module 30: Basic LLM App with LCEL - Lecture 9,Portfolio Building
+02-21,Sat,Module 30: Basic LLM App with LCEL - Lecture 10,Portfolio Building
+02-22,Sun,Module 30: Basic LLM App with LCEL - Lecture 11,Portfolio Building
+02-23,Mon,Module 30: Basic LLM App with LCEL - Lecture 12,Portfolio Building
+02-24,Tue,Module 31: Chatbots with Conversation History - Lecture 1,Portfolio Building
+02-25,Wed,Module 31: Chatbots with Conversation History - Lecture 2,Portfolio Building
+02-26,Thu,Module 31: Chatbots with Conversation History - Lecture 3,Portfolio Building
+02-27,Fri,Module 31: Chatbots with Conversation History - Lecture 4,Portfolio Building
+02-28,Sat,Module 32: Q&A ChatBot with Message History - Lecture 1,Portfolio Building
+03-01,Sun,Module 33: End-to-End Q&A ChatBot - Lecture 1,Portfolio Building
+03-02,Mon,Module 33: End-to-End Q&A ChatBot - Lecture 2,Portfolio Building
+03-03,Tue,Module 33: End-to-End Q&A ChatBot - Lecture 3,Portfolio Building
+03-04,Wed,Module 34: RAG with Groq & Llama3 - Lecture 1,Portfolio Building
+03-05,Thu,Module 34: RAG with Groq & Llama3 - Lecture 2,Portfolio Building
+03-06,Fri,Module 35: PDF Q&A Chatbot with History - Lecture 1,Portfolio Building
+03-07,Sat,Module 35: PDF Q&A Chatbot with History - Lecture 2,Portfolio Building
+03-08,Sun,Module 36: AI Agents & Search Engine - Lecture 1,Portfolio Building
+03-09,Mon,Module 36: AI Agents & Search Engine - Lecture 2,Portfolio Building
+03-10,Tue,Module 36: AI Agents & Search Engine - Lecture 3,Portfolio Building
+03-11,Wed,Module 36: AI Agents & Search Engine - Lecture 4,Portfolio Building
+03-12,Thu,Module 36: AI Agents & Search Engine - Lecture 5,Portfolio Building
+03-13,Fri,Module 36: AI Agents & Search Engine - Lecture 6,Portfolio Building
+03-14,Sat,Module 36: AI Agents & Search Engine - Lecture 7,Portfolio Building
+03-15,Sun,Module 37: Chat with SQL DB - Lecture 1,Portfolio Building
+03-16,Mon,Module 37: Chat with SQL DB - Lecture 2,Portfolio Building
+03-17,Tue,Module 37: Chat with SQL DB - Lecture 3,Portfolio Building
+03-18,Wed,Module 37: Chat with SQL DB - Lecture 4,Portfolio Building
+03-19,Thu,Module 38: Text Summarization - Lecture 1,Portfolio Building
+03-20,Fri,Module 38: Text Summarization - Lecture 2,Portfolio Building
+03-21,Sat,Module 38: Text Summarization - Lecture 3,Portfolio Building
+03-22,Sun,Module 39: Text-to-Math Problem Solver - Lecture 1,Portfolio Building
+03-23,Mon,Module 39: Text-to-Math Problem Solver - Lecture 2,Portfolio Building
+03-24,Tue,Module 40: HuggingFace & LangChain - Lecture 1,Portfolio Building
+03-25,Wed,Module 40: HuggingFace & LangChain - Lecture 2,Portfolio Building
+03-26,Thu,Module 41: PDF Query RAG - Lecture 1,Portfolio Building
+03-27,Fri,Module 41: PDF Query RAG - Lecture 2,Portfolio Building
+03-28,Sat,Module 42: CodeLlama with Ollama - Lecture 1,Portfolio Building
+03-29,Sun,Module 42: CodeLlama with Ollama - Lecture 2,Portfolio Building
+03-30,Mon,Module 43: Deployment of Gen AI Apps - Lecture 1,Final Review
+03-31,Tue,Module 43: Deployment of Gen AI Apps - Lecture 2,Final Review
